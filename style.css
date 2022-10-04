@@ -1,0 +1,18 @@
+nav {
+  color: white;
+}
+
+div.bg-image {
+
+}
+
+.no-padding {
+  object-fit: cover;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+footer {
+  background-color: #292929;
+  color: white;
+}
